@@ -4,7 +4,7 @@ keywords: session handler config file
 tags: [spec, getting_started]
 sidebar: home_sidebar
 permalink: spec_session-handler
-summary: Doctrineのキャッシュの利用設定について解説します。
+summary: session handlerの利用設定について解説します。
 ---
 
 
